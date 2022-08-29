@@ -13,7 +13,7 @@ Gcamp 서울 하드웨어 해커톤 자료(PDF)와 동영상 링크
 
 ***
 AI API, 웹캠, 기타
-- 팅커보드 웹캠 동작 구현(): https://www.waveshare.com/wiki/Tinker_Board_2#fswebcam
+- 팅커보드 웹캠 동작 구현(채병기형님): https://www.waveshare.com/wiki/Tinker_Board_2#fswebcam
 - Rock-X AI 컴포넌트 라이브러리 1.2.0 SDK 출시 (C&&Python): https://t.rock-chips.com/forum.php?mod=viewthread&tid=504 
 - Rockchip SSD Demo: https://github.com/rockchip-linux/RKNPUTools/tree/rk33/mid/8.1/develop/rknn-api/Android/rk_ssd_demo
 - TensorFlow Lite C++ image classification demo: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/examples/label_image
