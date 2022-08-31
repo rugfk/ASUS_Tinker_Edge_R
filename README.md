@@ -1,4 +1,4 @@
-# 2022 Seoul Hardware Hackerthon Material
+# 2022 Seoul Hardware Hackathon Material
 
 ***
 
