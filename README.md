@@ -21,7 +21,7 @@ AI API, 웹캠, 기타
 ***
 2022 서울 하드웨어 해커톤 GitHub List
 - Farming AI 팀(우수상, 우수리더상): https://github.com/rugfk/AI_Microscope
-- 프로메이커스 팀(장려상, ): https://github.com/dukekim/BigEyes & 동영상: https://youtu.be/gAta0gq1IZo
+- 프로메이커스 팀(장려상, 헬메이커:김도혁형님): https://github.com/dukekim/BigEyes & 동영상: https://youtu.be/gAta0gq1IZo
 - WNB 팀: https://github.com/pushdown99/face_mask_detect
 - 메이커스 팀 https://github.com/secret75/web1.git
 - 98MJ팀: https://github.com/98MJ/AS.git
