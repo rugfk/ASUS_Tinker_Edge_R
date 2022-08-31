@@ -25,7 +25,7 @@ AI API, 웹캠, 기타
 - WNB 팀: https://github.com/pushdown99/face_mask_detect
 - 메이커스 팀 https://github.com/secret75/web1.git
 - 98MJ팀: https://github.com/98MJ/AS.git
-- 녹색지킴봇 팀: https://github.com/avatar196kc/GreenBot
+- 녹색지킴봇 팀(채병기 형님, 솔리드웍스): https://github.com/avatar196kc/GreenBot
 - 코뿔소박치기 팀: https://github.com/dorkman42/wantact
 - 아무고나대하굑 팀(최우수상): https://github.com/2020AMGN/amugona_gcamp
 - 말랑말랑팀: https://github.com/malangmalang22/stamp_kiosk/ 
